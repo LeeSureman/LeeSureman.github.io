@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqing Yang"
+title                    : "Xiaonan Li"
 title_separator          : "-"
-name                     : &name "Yuqing Yang"
+name                     : &name "Xiaonan Li"
 description              : &description "personal description"
-url                      : "https://ayyyq.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://LeeSureman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ayyyq/ayyyq.github.io"
+repository               : "LeeSureman/LeeSureman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqing Yang"
-  name2            : "杨雨晴"
+  name             : "Xiaonan Li"
+  name2            : "李孝男"
   avatar           : "profile.jpg"
-  bio              : "NLP MSc student at FDU"
-  location         : "China"
+  bio              : "NLP PhD student at Fudan University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pIzLAUIAAAAJ"
-  email            : yuqingyang21@m.fudan.edu.cn
+  googlescholar    : "https://scholar.google.com/citations?user=ldEcEjEAAAAJ&hl=en"
+  email            : lixn20@fudan.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ayyyq"
+  github           : "LeeSureman"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yyqcode"
+  twitter          : "yyyjtrzj"
   vine             :
   weibo            :
   xing             :
