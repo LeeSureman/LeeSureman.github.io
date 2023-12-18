@@ -42,25 +42,24 @@ EMNLP 2023
 EMNLP 2023 Findings
 
 ***Xiaonan Li*** *, Kai Lv *, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, Xipeng Qiu  
-[Unified Demonstration Retriever for In-Context Learning](https://aclanthology.org/2023.acl-long.256.pdf)  
+[**Unified Demonstration Retriever for In-Context Learning**](https://aclanthology.org/2023.acl-long.256.pdf)  
 ACL 2023  
 
 ***Xiaonan Li***, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan  
-[CodeRetriever: A Large Scale Contrastive Pre-Training Method for Code Search](https://aclanthology.org/2022.emnlp-main.187.pdf)  
+[**CodeRetriever: A Large Scale Contrastive Pre-Training Method for Code Search**](https://aclanthology.org/2022.emnlp-main.187.pdf)  
 EMNLP 2022  
 
 ***Xiaonan Li*** *, Daya Guo *, Yeyun Gong, Yun Lin, Yelong Shen, Xipeng Qiu, Daxin Jiang, Weizhu Chen, Nan Duan  
-[Soft-Labeled Contrastive Pre-training for Function-level Code Representation](https://aclanthology.org/2022.findings-emnlp.9.pdf)  
+[**Soft-Labeled Contrastive Pre-training for Function-level Code Representation**](https://aclanthology.org/2022.findings-emnlp.9.pdf)  
 EMNLP 2022 Findings  
 
-Xiaonan Li, Yunfan Shao, Tianxiang Sun, Hang Yan, Xipeng Qiu
+***Xiaonan Li***, Yunfan Shao, Tianxiang Sun, Hang Yan, Xipeng Qiu
 , Xuanjing Huang  
-[Accelerating BERT Inference for Sequence Labeling via Early-Exit](https://aclanthology.org/2021.acl-long.16.pdf)  
+[**Accelerating BERT Inference for Sequence Labeling via Early-Exit**](https://aclanthology.org/2021.acl-long.16.pdf)  
 ACL 2021  
 
-Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang  
-[FLAT: Chinese NER Using Flat-Lattice Transformer
-](https://aclanthology.org/2020.acl-main.611.pdf)  
+***Xiaonan Li***, Hang Yan, Xipeng Qiu, Xuanjing Huang  
+[**FLAT: Chinese NER Using Flat-Lattice Transformer**](https://aclanthology.org/2020.acl-main.611.pdf)  
 ACL 2021  
 
 
