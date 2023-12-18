@@ -17,7 +17,7 @@ I am a fourth-year PhD student at Fudan University, advised by Prof. [Xipeng Qiu
   Advisor: Prof. Xipeng Qiu  
 - **Xidian University**  
   B.E. in Computer Science, 2016 - 2020  
-  GPA: 3.9/4.00, Rankings: 3/400  
+  GPA: 3.9/4.00, Ranking: 3/400  
 
 # Experience
 - **Microsoft Research Asia**
