@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a fourth-year PhD student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/).
-My research interest focuses on Large Language Models & Retrieval, especially Retrieval-augmented LLM Generation, LLM-augmented Retrieval and LLM's Verifiable Generation.
+I am a fourth-year PhD student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/).  
+My research interest focuses on Large Language Models & Retrieval, especially Retrieval-augmented LLM Generation, LLM-augmented Retrieval and LLM's Verifiable Generation.  
+
+Looking for Industry Opportunities, e.g., Research Scientist and Applied Scientist. I'm expected to graduate in June 2025.
 
 # Education
 - **Fudan University**  
