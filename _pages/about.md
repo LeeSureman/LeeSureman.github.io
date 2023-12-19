@@ -12,7 +12,9 @@ redirect_from:
 I am a fourth-year PhD student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/).  
 My research interest focuses on Large Language Models & Retrieval, especially Retrieval-augmented LLM Generation, LLM-augmented Retrieval and LLM's Verifiable Generation.  
 
-Looking for Industry Opportunities, e.g., Research Scientist and Applied Scientist. I'm expected to graduate in June 2025.
+[//]: # (Looking for Industry Opportunities, e.g., Research Scientist and Applied Scientist. I'm expected to graduate in June 2025.)
+[//]: # (I'm expected to receive my PhD degree in June 2025.   )
+<font color=red>***I'm expected to receive my PhD degree in June 2025 and will seek industry opportunities (US / CN) in 2024.***</font>
 
 # Education
 - **Fudan University**  
@@ -62,7 +64,7 @@ ACL 2021
 
 ***Xiaonan Li***, Hang Yan, Xipeng Qiu, Xuanjing Huang  
 [**FLAT: Chinese NER Using Flat-Lattice Transformer**](https://aclanthology.org/2020.acl-main.611.pdf)  
-ACL 2021  
+ACL 2020  
 
 
 # Awards
