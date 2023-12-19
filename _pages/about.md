@@ -14,7 +14,7 @@ My research interest focuses on Large Language Models & Retrieval, especially Re
 
 [//]: # (Looking for Industry Opportunities, e.g., Research Scientist and Applied Scientist. I'm expected to graduate in June 2025.)
 [//]: # (I'm expected to receive my PhD degree in June 2025.   )
-<font color=red>***I'm expected to receive my PhD degree in June 2025 and will seek industry opportunities (US / CN) in 2024.***</font>
+***<font color=red>I'm expected to receive my PhD degree in June 2025 and will seek industry opportunities (US / CN) in 2024.</font>***
 
 # Education
 - **Fudan University**  
