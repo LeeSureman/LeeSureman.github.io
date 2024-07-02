@@ -18,8 +18,8 @@ main:
 #  - title: "Group"
 #    url: /group/
     
-#   - title: "CV"
-#     url: /files/cv.pdf
+  - title: "CV"
+    url: /Resume_Xiaonan_Li_Fudan_University.pdf
     
   # - title: "Guide"
   #   url: /markdown/
