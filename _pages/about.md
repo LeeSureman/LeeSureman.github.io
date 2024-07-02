@@ -33,6 +33,12 @@ My research interest focuses on Large Language Models & Retrieval, especially Re
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+Qinyuan Cheng *, ***Xiaonan Li*** *, Shimin Li, Qin Zhu, Zhangyue Yin, Yunfan Shao, Linyang Li, Tianxiang Sun, Hang Yan, Xipeng Qiu  
+[**Unified Active Retrieval for Retrieval Augmented Generation**](https://arxiv.org/pdf/2406.12534)
+
+Xingyu Lu *, ***Xiaonan Li*** *, Qinyuan Cheng, Kai Ding, Xuanjing Huang, Xipeng Qiu  
+[**Scaling Laws for Fact Memorization of Large Language Models**](https://arxiv.org/pdf/2406.15720)
+
 ***Xiaonan Li*** *, Changtai Zhu *, Linyang Li, Zhangyue Yin, Tianxiang Sun, Xipeng Qiu  
 [**LLatrieval: LLM-Verified Retrieval for Verifiable Generation**](https://arxiv.org/pdf/2311.07838.pdf)  
 preprint arXiv 2023  
