@@ -18,16 +18,16 @@ My research interest focuses on Large Language Models & Retrieval, especially Re
 
 # Education
 - **Fudan University**  
-  Ph.D. in Computer Science, 2020 - 2025 (expected)  
+  Ph.D. in Computer Science, 2020.9 - 2025.6 (expected)  
   Advisor: Prof. Xipeng Qiu  
 - **Xidian University**  
-  B.E. in Computer Science, 2016 - 2020  
+  B.E. in Computer Science, 2016.9 - 2020.7  
   GPA: 3.9/4.00, Ranking: 3/400  
 
 # Experience
 - **Microsoft Research Asia**  
   Advisor: Dr. Yeyun Gong  
-  June 2021 - June 2022
+  2021.6 - 2022.6
 
 # Publications
 \* denotes co-first authors
